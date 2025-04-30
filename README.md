@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Heart Disease Prediction Using Machine Learning
 
 A comprehensive machine learning project that implements and compares Random Forest, XGBoost, and SVM models for heart disease prediction with detailed performance analysis.
